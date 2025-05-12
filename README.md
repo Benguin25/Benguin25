@@ -28,11 +28,5 @@ Currently exploring AI, web development, and all things full-stack.
 
 ---
 
-### 📊 GitHub Stats:
-<!-- Uncomment this when you have some commits! -->
-<!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical) -->
-
----
-
 ### 🌐 Connect with Me:
 [LinkedIn](https://www.linkedin.com/in/benjamin-probert/)
