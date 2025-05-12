@@ -35,4 +35,4 @@ Currently exploring AI, web development, and all things full-stack.
 ---
 
 ### 🌐 Connect with Me:
-[LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/benjamin-probert/))
+[LinkedIn](https://www.linkedin.com/in/benjamin-probert/)
